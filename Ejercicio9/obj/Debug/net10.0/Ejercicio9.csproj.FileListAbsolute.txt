@@ -1,0 +1,15 @@
+C:\Users\Kevin\C#\Ejercicio9\bin\Debug\net10.0\Ejercicio9.exe
+C:\Users\Kevin\C#\Ejercicio9\bin\Debug\net10.0\Ejercicio9.deps.json
+C:\Users\Kevin\C#\Ejercicio9\bin\Debug\net10.0\Ejercicio9.runtimeconfig.json
+C:\Users\Kevin\C#\Ejercicio9\bin\Debug\net10.0\Ejercicio9.dll
+C:\Users\Kevin\C#\Ejercicio9\bin\Debug\net10.0\Ejercicio9.pdb
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\Ejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\Ejercicio9.AssemblyInfoInputs.cache
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\Ejercicio9.AssemblyInfo.cs
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\Ejercicio9.sourcelink.json
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\Ejercicio9.dll
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\refint\Ejercicio9.dll
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\Ejercicio9.pdb
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\Ejercicio9.genruntimeconfig.cache
+C:\Users\Kevin\C#\Ejercicio9\obj\Debug\net10.0\ref\Ejercicio9.dll
